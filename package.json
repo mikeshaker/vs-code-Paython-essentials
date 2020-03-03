@@ -1,0 +1,32 @@
+{
+  "name": "python-essentials",
+  "displayName": "Python Must-Have Essentials 🐍",
+  "description": "collection of must-have extensions for Python developers.",
+  "version": "1.0.0",
+  "publisher": "mikeshaker",
+  "icon": "images/python.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeshaker/vs-code-Paython-essentials.git"
+  },
+  "keywords": [
+    "python",
+    "flask",
+    "python Snippets"
+  ],
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionDependencies": [
+    "ms-python.python",
+    "njpwerner.autodocstring",
+    "formulahendry.code-runner",
+    "ms-python.anaconda-extension-pack",
+    "aaron-bond.better-comments",
+    "cstrap.flask-snippets",
+    "thebarkman.vscode-djaneiro"
+  ]
+}

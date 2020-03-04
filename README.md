@@ -2,8 +2,6 @@
 
 A collection of must-have extensions for Python developers.
 
-![Python Essentials](images/python.png)
-
 ## Extensions Included
 
 * [python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) by Microsoft

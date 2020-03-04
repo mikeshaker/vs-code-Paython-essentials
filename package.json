@@ -2,7 +2,7 @@
   "name": "python-essentials",
   "displayName": "Python Must-Have Essentials 🐍",
   "description": "collection of must-have extensions for Python developers.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "mikeshaker",
   "icon": "images/python.png",
   "repository": {
